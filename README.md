@@ -1,14 +1,16 @@
 <h3>Build system for sublime for the following languages</h3>
 <ol>
 <li>Python3</li>
+<li>Java</li>
+<li>Cpp</li>
 </ol>
 
-2] Java
-3] Cpp
-Note : It requires terminus plugin because sublime console doesn't take any input
+<p><b>Note :</b> It requires terminus plugin because sublime console doesn't take any input</p>
 
-Steps:
-1)
+<h5>Steps:</h5>
+<ol>
+<li></li>
+</ol>
 
 [
 	{
