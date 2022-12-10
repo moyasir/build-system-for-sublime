@@ -7,7 +7,7 @@
 
 <p><b>Note :</b> It requires terminus plugin because sublime console doesn't take any input</p>
 
-<p>Put his to terminus command pallete</p>
+<p>Put this to terminus command pallete</p>
 <code>
 [
 	{
@@ -23,3 +23,24 @@
 ]
 
 </code>
+
+<p>Put this to terminus keybinding</p>
+<code>
+[
+	{
+       "keys": ["ctrl+`"],
+       "command": "terminus_open",
+       "args" : {
+           "cmd": "bash",
+           "cwd": "${file_path:${folder}}",
+           "panel_name": "Terminal"
+       }
+   },
+   { 
+    "keys": ["ctrl+`"], "command": "terminus_close", "context": [{ "key": "terminus_view"}]
+   },   
+]
+
+</code>
+
+
