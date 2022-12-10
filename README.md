@@ -7,11 +7,8 @@
 
 <p><b>Note :</b> It requires terminus plugin because sublime console doesn't take any input</p>
 
-<h5>Steps:</h5>
-<ol>
-<li></li>
-</ol>
-
+<p>Put his to terminus command pallete</p>
+<code>
 [
 	{
         "caption": "Terminal",
@@ -24,3 +21,5 @@
         }
    }
 ]
+
+</code>
