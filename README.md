@@ -6,7 +6,10 @@
 </ol>
 
 <p><b>Note :</b> It requires terminus plugin because sublime console doesn't take any input</p>
-
+<ol>
+<li>install package control using ctrl+shift+p.</li>
+<li>install package > terminus using ctrl+shift+p.</li>
+<li>then go to preference > package > terminus > command pallete and
 <p>Put this to terminus command pallete</p>
 <code>
 [
@@ -23,7 +26,8 @@
 ]
 
 </code>
-
+</li>
+<li>then go to preference > package > terminus > keybinding and
 <p>Put this to terminus keybinding</p>
 <code>
 [
@@ -42,5 +46,11 @@
 ]
 
 </code>
+</li>
+<li>then create a build for the above language and paste the code for the following.</li>
+</ol>
+
+
+
 
 
