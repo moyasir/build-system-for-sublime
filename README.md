@@ -47,14 +47,14 @@
 
 </code>
 </li>
-<li>then create a build for the above language and paste the code for the following <b>I've already uploaded the build command code for specific lang in dir below is the link.<br>
+<li>then create a build for the above language and paste the code for the following. I've already uploaded the build command code for specific lang in dir below is the link.<br>
 <a href="https://github.com/moyasir/build-system-for-sublime/blob/main/Python3.sublime-build">python3</a>
 <a href="https://github.com/moyasir/build-system-for-sublime/blob/main/Java.sublime-build">java</a>
 <a href="https://github.com/moyasir/build-system-for-sublime/blob/main/cpp.sublime-build">cpp</a>	
 </li>
 </ol>
 
-<p><b>Note:</b>For windows user change bash to cmd.exe</p>
+<p><b>Note:</b> For windows user change bash to cmd.exe</p>
 
 
 
