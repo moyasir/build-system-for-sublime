@@ -54,6 +54,8 @@
 </li>
 </ol>
 
+<p><b>Note:</b>For windows user change bash to cmd.exe</p>
+
 
 
 
